@@ -1,0 +1,45 @@
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\bin\Debug\netstandard2.0\Mastermind.deps.json
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\bin\Debug\netstandard2.0\Mastermind.dll
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\bin\Debug\netstandard2.0\ref\Mastermind.dll
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\bin\Debug\netstandard2.0\Mastermind.pdb
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.csproj.AssemblyReference.cache
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.AssemblyInfoInputs.cache
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.AssemblyInfo.cs
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.dll
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\ref\Mastermind.dll
+C:\Users\College\source\repos\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.pdb
+C:\Users\College\Mastermind\Mastermind\Mastermind\bin\Debug\netstandard2.0\Mastermind.deps.json
+C:\Users\College\Mastermind\Mastermind\Mastermind\bin\Debug\netstandard2.0\Mastermind.dll
+C:\Users\College\Mastermind\Mastermind\Mastermind\bin\Debug\netstandard2.0\ref\Mastermind.dll
+C:\Users\College\Mastermind\Mastermind\Mastermind\bin\Debug\netstandard2.0\Mastermind.pdb
+C:\Users\College\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.csproj.AssemblyReference.cache
+C:\Users\College\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\College\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\College\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\College\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.AssemblyInfoInputs.cache
+C:\Users\College\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.AssemblyInfo.cs
+C:\Users\College\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\College\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\College\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.dll
+C:\Users\College\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\ref\Mastermind.dll
+C:\Users\College\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.pdb
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\bin\Debug\netstandard2.0\Mastermind.deps.json
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\bin\Debug\netstandard2.0\Mastermind.dll
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\bin\Debug\netstandard2.0\ref\Mastermind.dll
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\bin\Debug\netstandard2.0\Mastermind.pdb
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.csproj.AssemblyReference.cache
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.AssemblyInfoInputs.cache
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.AssemblyInfo.cs
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.dll
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\ref\Mastermind.dll
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind\obj\Debug\netstandard2.0\Mastermind.pdb

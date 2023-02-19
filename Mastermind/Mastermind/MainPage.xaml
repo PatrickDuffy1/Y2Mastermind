@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mastermind.MainPage"
+             BackgroundColor="BurlyWood">
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+
+        <!-- Main Menu of game -->
+        <StackLayout x:Name="SLMainMenu" HorizontalOptions="Center" VerticalOptions="Center" IsVisible="true">
+
+            <Label Text="MASTER" FontSize="Header" FontAttributes="Bold"/>
+            <Label Text="   MIND" FontSize="Header" FontAttributes="Bold"/>
+            <Button Text="Start Game" Clicked="StartGameClicked"/>
+            <Label Text=""/>
+            <Label Text="Duplicate Colours:" FontAttributes="Bold"/>
+            <Label x:Name="LblChangeDuplicateStatus" Text="Allow Duplicates: False" FontAttributes="Bold"/>
+            <Button Text="Change Allow Duplicates" Clicked="BtnChangeDuplicateStatus_Clicked"/>
+
+        </StackLayout>
+
+        <!-- Game grid and buttons -->
+        <StackLayout x:Name="GameDisplay" IsVisible="false">
+
+            <!-- Buttons for game (Reset, Save, Load, Change Duplication Status) -->
+            <StackLayout x:Name="SLButtons" IsVisible="true">
+                <StackLayout Orientation="Horizontal">
+                    <Button x:Name="BtnResetGame" Text="Reset Game" Clicked="BtnResetGame_Clicked"/>
+                    <Button x:Name="BtnSaveGame" Text="Save Game" Clicked="BtnSaveGame_Clicked"/>
+                    <Button x:Name="BtnLoadGame" Text="Load Game" Clicked="BtnLoadGame_Clicked"/>
+                </StackLayout>
+
+                <Label x:Name="LblSaveStatus" IsVisible="false" FontAttributes="Bold,Italic"/>
+
+                <StackLayout Orientation="Horizontal">
+                    <Label x:Name="LblChangeDuplicateStatus2" Text="      Allow Duplicates: False" VerticalOptions="Center" FontAttributes="Bold"/>
+                    <Button x:Name="BtnChangeDuplicateStatus2" Text="Allow" Clicked="BtnChangeDuplicateStatus_Clicked"/>
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout x:Name="SLEndOfGame" WidthRequest="300" IsVisible="false" BackgroundColor="BurlyWood">
+                <Label x:Name="LblEndOfGame"/>
+            </StackLayout>
+
+            <!-- Boxviews with different colours that the user can select to choose a colour -->
+            <StackLayout x:Name="SelectableColours" HorizontalOptions="Center" VerticalOptions="Center" BackgroundColor="BurlyWood" Padding="5" IsVisible="true">
+                <StackLayout Orientation="Horizontal">
+                    <BoxView x:Name="tealBoxView" HeightRequest="60" WidthRequest="80" CornerRadius="30" Color="Teal" StyleId="0">
+                        <BoxView.GestureRecognizers>
+                            <TapGestureRecognizer
+                        Tapped="Colour_Tapped"/>
+                        </BoxView.GestureRecognizers>
+                    </BoxView>
+
+                    <BoxView x:Name="redBoxView" HeightRequest="60" WidthRequest="80" CornerRadius="30" Color="Red" StyleId="1">
+                        <BoxView.GestureRecognizers>
+                            <TapGestureRecognizer
+                        Tapped="Colour_Tapped"/>
+                        </BoxView.GestureRecognizers>
+                    </BoxView>
+
+                    <BoxView x:Name="blueBoxView" HeightRequest="60" WidthRequest="80" CornerRadius="30" Color="Blue" StyleId="2">
+                        <BoxView.GestureRecognizers>
+                            <TapGestureRecognizer
+                        Tapped="Colour_Tapped"/>
+                        </BoxView.GestureRecognizers>
+                    </BoxView>
+
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <BoxView x:Name="greenBoxView" HeightRequest="60" WidthRequest="80" CornerRadius="30" Color="Green" StyleId="3">
+                        <BoxView.GestureRecognizers>
+                            <TapGestureRecognizer
+                        Tapped="Colour_Tapped"/>
+                        </BoxView.GestureRecognizers>
+                    </BoxView>
+
+                    <BoxView x:Name="orangeBoxView" HeightRequest="60" WidthRequest="80" CornerRadius="30" Color="Orange" StyleId="4">
+                        <BoxView.GestureRecognizers>
+                            <TapGestureRecognizer
+                        Tapped="Colour_Tapped"/>
+                        </BoxView.GestureRecognizers>
+                    </BoxView>
+
+                    <BoxView x:Name="pinkBoxView" HeightRequest="60" WidthRequest="80" CornerRadius="30" Color="Pink" StyleId="5">
+                        <BoxView.GestureRecognizers>
+                            <TapGestureRecognizer
+                        Tapped="Colour_Tapped"/>
+                        </BoxView.GestureRecognizers>
+                    </BoxView>
+
+                </StackLayout>
+
+            </StackLayout>
+
+            <!-- GameGrid. Set up in C# -->
+            <StackLayout x:Name="GameStackLayout" HorizontalOptions="Center" VerticalOptions="Center" Padding="20"/>
+
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>

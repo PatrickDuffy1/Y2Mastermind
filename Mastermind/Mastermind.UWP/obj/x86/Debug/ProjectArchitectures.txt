@@ -1,0 +1,1 @@
+C:\Users\College\OneDrive - Atlantic TU\InternetAndMobile\Mastermind\Mastermind\Mastermind.UWP\Mastermind.UWP.csproj;x86
